@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```
 ## Introducción
-Este notebook contiene las actividades a realizar como parte del proyecto final de la materia Data Mining del Tecnológico de Monterrey, Campus Estado de México para el ciclo escolar enero/junio de 2021.
+Este notebook contiene las actividades a realizar como parte del proyecto final de la materia Data Mining del Tecnológico de Monterrey, Campus Estado de México para el ciclo escolar enero/junio de  2021.
 
 Las actividades incluyen ejecución, personalización y codificación de estatutos del lenguaje R con diversas liberarías de reglas de asociación, así como cálculos, análisis, investigación y exposición de conceptos relacionados.
 
